@@ -24,5 +24,8 @@ public class Dice {
 		}
 		return counter;
 
-	}
+	@Override
+	public String toString() {
+		return "SetDiceClass [getClass()=" + Throw() + "throw2" + Throw2() + ", toString()=" + super.toString() + "]";
+}
 }
