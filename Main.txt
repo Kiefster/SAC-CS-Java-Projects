@@ -1,0 +1,12 @@
+public class Main extends HumanPowerCycle {
+
+
+public static void main(String[] args) {
+		
+
+			System.out.println(name+ "The current speed is "+NumberofWheels+NumberofGears+ " the color is "+color);
+		}
+	
+
+
+}
